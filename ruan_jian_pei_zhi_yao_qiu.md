@@ -31,8 +31,8 @@
 | Ubuntu   | X | 无 |
 | Centos  | X | 无 |
 | Fedora  | X | 无 |
-| Fedora  | X | 无 |
-| Fedora  | X | 无 |
+| OpenSUSE  | X | 无 |
+| Debian  | X | 无 |
 | Fedora  | X | 无 |
 | Fedora  | X | 无 |
 | Fedora  | X | 无 |
