@@ -2,7 +2,7 @@
 
 * [介绍](README.md)
 * [概述](gai_nian.md)
-* 服务端安装
+* [服务端安装](fu_wu_duan_an_zhuang.md)
 * 镜像制作
 * 常用管理
 
