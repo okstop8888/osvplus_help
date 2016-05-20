@@ -21,24 +21,24 @@
 | -- | -- | -- |
 | windows 98/ME  | X | 无 |
 | windows 2000  | X | 无 |
-| windows XP/2003-X86  | X | 无 |
+| windows XP/2003-X86  | √ | 无 |
 | windows XP/2003-X64  | X | 无 |
-| windows Vista/Server 2008  | X | 无 |
-| windows 7/Server 2008R2  | X | 无 |
-| windows 8/Server 2012  | X | 无 |
-| windows 8.1/Server 2012R2  | X | 无 |
-| windows 10  | X | 无 |
-| Ubuntu   | X | 无 |
-| Centos  | X | 无 |
-| Fedora  | X | 无 |
-| OpenSUSE  | X | 无 |
-| Debian  | X | 无 |
-| Mandriva  | X | 无 |
-| CentOS  | X | 无 |
-| RedHat  | X | 无 |
-| 中标麒麟  | X | 无 |
-| StartOS  | X | 无 |
-| 其他Linux  | X | 无 |
+| windows Vista/Server 2008  | √ | 无 |
+| windows 7/Server 2008R2  | √ | 无 |
+| windows 8/Server 2012  | √ | 无 |
+| windows 8.1/Server 2012R2  | √ | 无 |
+| windows 10  | √ | 无 |
+| Ubuntu   | √ | 无 |
+| Centos  | √ | 无 |
+| Fedora  | √ | 无 |
+| OpenSUSE  | √ | 无 |
+| Debian  | √ | 无 |
+| Mandriva  | √ | 无 |
+| CentOS  | √ | 无 |
+| RedHat  | √ | 无 |
+| 中标麒麟  | √ | 无 |
+| StartOS  | √ | 无 |
+| 其他Linux  | √ | 无 |
 
 
 
