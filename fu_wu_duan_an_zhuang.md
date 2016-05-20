@@ -13,8 +13,12 @@
 
 配置服务器前的准备：
 
-* 固定当前服务器IP
-* 
+* 将服务器IP设置为固定
+* 在D盘上创建d:\Data\Base   d:\Data\User  d:\Data\Temp 这三个目录
+
+
+
+
 
 
 
