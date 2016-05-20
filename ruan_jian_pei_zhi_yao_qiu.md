@@ -23,11 +23,11 @@
 | windows 2000  | X | 无 |
 | windows XP/2003-X86  | X | 无 |
 | windows XP/2003-X64  | X | 无 |
-| windows Vista/2  | X | 无 |
-| windows 98/ME  | X | 无 |
-| windows 98/ME  | X | 无 |
-| windows 98/ME  | X | 无 |
-| windows 98/ME  | X | 无 |
+| windows Vista/Server 2008  | X | 无 |
+| windows 7/Server 2008R2  | X | 无 |
+| windows 8/Server 2012  | X | 无 |
+| windows 8.1/Server 2012R2  | X | 无 |
+| windows 10  | X | 无 |
 | windows 98/ME  | X | 无 |
 | windows 98/ME  | X | 无 |
 
