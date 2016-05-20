@@ -6,7 +6,7 @@
    * [软件实施拓扑](ruan_jian_shi_shi_tuo_pu.md)
    * [网络端口](wang_luo_duan_kou.md)
 * [服务端安装](fu_wu_duan_an_zhuang.md)
-   * [硬件配置要求](pei_zhi_yao_qiu.md)
+   * [服务器硬件配置要求](pei_zhi_yao_qiu.md)
    * [软件配置要求](ruan_jian_pei_zhi_yao_qiu.md)
 * [镜像制作](jing_xiang_zhi_zuo.md)
 * [常用管理](chang_yong_guan_li.md)
