@@ -2,7 +2,7 @@
 
 * [介绍](README.md)
 * [概述](gai_nian.md)
-   * 软件架构介绍
+   * [软件架构介绍](ruan_jian_jia_gou_jie_shao.md)
    * 软件实施拓扑
    * 网络端口
 * [服务端安装](fu_wu_duan_an_zhuang.md)
