@@ -38,6 +38,7 @@
 | RedHat  | X | 无 |
 | 中标麒麟  | X | 无 |
 | StartOS  | X | 无 |
+| 其他Linux  | X | 无 |
 
 
 
