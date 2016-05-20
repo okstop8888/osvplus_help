@@ -28,8 +28,9 @@
 | windows 8/Server 2012  | X | 无 |
 | windows 8.1/Server 2012R2  | X | 无 |
 | windows 10  | X | 无 |
-| windows 98/ME  | X | 无 |
-| windows 98/ME  | X | 无 |
+| Ubuntu   | X | 无 |
+| Centos  | X | 无 |
+| Fedora  | X | 无 |
 
 
 
