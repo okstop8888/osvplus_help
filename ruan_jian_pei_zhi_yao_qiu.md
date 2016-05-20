@@ -36,8 +36,8 @@
 | Mandriva  | X | 无 |
 | CentOS  | X | 无 |
 | RedHat  | X | 无 |
-| 中标  | X | 无 |
-| Fedora  | X | 无 |
+| 中标麒麟  | X | 无 |
+| StartOS  | X | 无 |
 
 
 
