@@ -33,8 +33,8 @@
 | Fedora  | X | 无 |
 | OpenSUSE  | X | 无 |
 | Debian  | X | 无 |
-| Fedora  | X | 无 |
-| Fedora  | X | 无 |
+| Mandriva  | X | 无 |
+| CentOS  | X | 无 |
 | Fedora  | X | 无 |
 | Fedora  | X | 无 |
 | Fedora  | X | 无 |
