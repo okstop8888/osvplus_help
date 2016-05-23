@@ -16,4 +16,5 @@
    * [Linux 镜像制作](linux_jing_xiang_zhi_zuo.md)
 * [使用方法](chang_yong_guan_li.md)
    * 添加计算机
+   * 下发桌面
 
