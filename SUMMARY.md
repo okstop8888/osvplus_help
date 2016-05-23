@@ -10,7 +10,6 @@
    * [网络端口](wang_luo_duan_kou.md)
 * [服务端安装](fu_wu_duan_an_zhuang.md)
 * [镜像制作](jing_xiang_zhi_zuo.md)
-   * [Windows 8/8.1/10镜像制作](windows_88110jing_xiang_zhi_zuo.md)
    * [Linux 镜像制作](linux_jing_xiang_zhi_zuo.md)
    * [使用已有系统制作](shi_yong_yi_you_xi_tong_zhi_zuo.md)
    * [使用V2P工具制作](shi_yong_v2p_gong_ju_zhi_zuo.md)
