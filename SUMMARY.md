@@ -16,6 +16,6 @@
    * [Linux 镜像制作](linux_jing_xiang_zhi_zuo.md)
    * [使用已有系统制作](shi_yong_yi_you_xi_tong_zhi_zuo.md)
    * [使用V2P工具制作](shi_yong_v2p_gong_ju_zhi_zuo.md)
-   * 使用virtualbox制作
+   * [使用virtualbox制作](shi_yong_virtualbox_zhi_zuo.md)
 * [常用管理](chang_yong_guan_li.md)
 
