@@ -13,5 +13,6 @@
    * Windows XP 镜像制作
    * Windows 7 镜像制作
    * Windows 8/8.1/10镜像制作
+   * Linux 镜像制作
 * [常用管理](chang_yong_guan_li.md)
 
