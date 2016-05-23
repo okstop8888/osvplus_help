@@ -15,6 +15,6 @@
    * [使用virtualbox制作](shi_yong_virtualbox_zhi_zuo.md)
    * [Linux 镜像制作](linux_jing_xiang_zhi_zuo.md)
 * [使用方法](chang_yong_guan_li.md)
-   * 添加计算机
+   * [添加计算机](tian_jia_ji_suan_ji.md)
    * 下发桌面
 
