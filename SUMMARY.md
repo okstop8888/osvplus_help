@@ -10,7 +10,7 @@
    * [网络端口](wang_luo_duan_kou.md)
 * [服务端安装](fu_wu_duan_an_zhuang.md)
 * [镜像制作](jing_xiang_zhi_zuo.md)
-   * Windows XP 镜像制作
+   * [Windows XP 镜像制作](windows_xp_jing_xiang_zhi_zuo.md)
    * Windows 7 镜像制作
    * Windows 8/8.1/10镜像制作
    * Linux 镜像制作
