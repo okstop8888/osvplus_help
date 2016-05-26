@@ -26,12 +26,12 @@
 ![](v8.png)
 
 
-> 起始IP：DHCP池的起始IP
-> 结束IP：DHCP池的结束IP
-> 掩码：DHCP池的掩码
-> 网关：DHCP信息中的网关
-> 服务器IP：真实的服务器IP
-> 引导ROM：此处默认
+> 起始IP：DHCP池的起始IP  
+> 结束IP：DHCP池的结束IP  
+> 掩码：DHCP池的掩码  
+> 网关：DHCP信息中的网关  
+> 服务器IP：真实的服务器IP  
+> 引导ROM：此处默认  
 
 
 
