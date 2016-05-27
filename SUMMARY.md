@@ -17,5 +17,5 @@
 * [使用方法](chang_yong_guan_li.md)
    * [添加计算机](tian_jia_ji_suan_ji.md)
    * [第一次下发桌面](xia_fa_zhuo_mian.md)
-   * 更新桌面
+   * [更新桌面](geng_xin_zhuo_mian.md)
 
