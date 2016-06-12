@@ -18,5 +18,5 @@
    * [添加计算机](tian_jia_ji_suan_ji.md)
    * [第一次下发桌面](xia_fa_zhuo_mian.md)
    * [更新桌面](geng_xin_zhuo_mian.md)
-   * 新建还原点
+   * [新建还原点](xin_jian_huan_yuan_dian.md)
 
