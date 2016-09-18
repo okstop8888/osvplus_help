@@ -15,11 +15,13 @@
     * [使用P2V工具制作（推荐）](shi_yong_v2p_gong_ju_zhi_zuo.md)
     * [使用virtualbox制作](shi_yong_virtualbox_zhi_zuo.md)
     * [Linux 镜像制作](linux_jing_xiang_zhi_zuo.md)
-    * [下发桌面](下发桌面.md)
-        * [使用PXE方式进行下发](使用pxe.md)
 * [使用方法](chang_yong_guan_li.md)
     * [添加计算机](tian_jia_ji_suan_ji.md)
     * [第一次下发桌面](xia_fa_zhuo_mian.md)
     * [更新桌面](geng_xin_zhuo_mian.md)
     * [新建还原点](xin_jian_huan_yuan_dian.md)
+* [下发桌面](下发桌面.md)
+    * [使用PXE方式进行下发](使用pxe.md)
+    * 使用USB，CDROM进行网络下发
+    * 使用USB直接写入桌面环境
 
