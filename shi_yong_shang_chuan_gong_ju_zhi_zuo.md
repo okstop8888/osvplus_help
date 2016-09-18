@@ -28,6 +28,7 @@
 ![](/assets/13.png)
 5，在Menu下新建一个简单包
 ![](/assets/14-1.png)
+6，
 ![](/assets/15-1.png)
 ![](/assets/16-1.png)
 
