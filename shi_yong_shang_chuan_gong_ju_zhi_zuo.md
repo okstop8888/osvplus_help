@@ -17,7 +17,7 @@
 
 ![  ![](/assets/10.png)
 
-![](/assets/11.png)]
+![](/assets/11.png)
 
 ![](/assets/12-1.png)
 ![](/assets/13.png)
