@@ -22,6 +22,6 @@
     * [新建还原点](xin_jian_huan_yuan_dian.md)
 * [下发桌面](下发桌面.md)
     * [使用PXE方式进行下发](使用pxe.md)
-    * 使用USB，CDROM进行网络下发
+    * [使用USB,CD启动后进行网络下发](使用usb，cdrom进行网络下发.md)
     * 使用USB直接写入桌面环境
 
