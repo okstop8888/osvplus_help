@@ -26,6 +26,7 @@
 ![](/assets/12-1.png)
 4, 新建一个菜单名称为“UPDATE”的启动菜单
 ![](/assets/13.png)
+
 ![](/assets/14-1.png)
 ![](/assets/15-1.png)
 ![](/assets/16-1.png)
