@@ -54,6 +54,7 @@
    * 在计算机模板处，添加菜单“Update”
    ![新建update菜单](/assets/17-1.png)
    * 在菜单UPdate处添加“简单包”
+   
    * 将OSV_Kernel镜像拖进刚刚新建的简单包
 
 ![](11.png)
