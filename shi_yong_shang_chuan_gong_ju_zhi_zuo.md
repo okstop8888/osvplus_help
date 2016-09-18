@@ -24,7 +24,7 @@
 ![](/assets/11.png)
 3，在ADMIN帐户下，新建一个启动菜单“Menu”
 ![](/assets/12-1.png)
-4, 新建一个菜单名称为“UPDATE”的启动菜单
+4, 新建一个菜单名称为“”的启动菜单
 ![](/assets/13.png)
 5， 
 ![](/assets/14-1.png)
