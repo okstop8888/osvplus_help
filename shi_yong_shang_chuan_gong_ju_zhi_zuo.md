@@ -51,6 +51,8 @@
 2.  选择要加入的计算机名称
 ![](/assets/18-1.png)
 3.  进入BOOTLoader主界面
+![](/assets/19-1.png)
+4.  
 
 
 
