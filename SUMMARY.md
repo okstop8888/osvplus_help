@@ -20,5 +20,5 @@
     * [使用USB,CD启动后进行网络下发](使用usb，cdrom进行网络下发.md)
     * [使用USB直接写入桌面环境](使用usb直接写入桌面环境.md)
 * [常用桌面管理](chang_yong_guan_li.md)
-    * [如何更新桌面](geng_xin_zhuo_mian.md)
+    * [如何更新桌面](如何更新桌面.md)
 
