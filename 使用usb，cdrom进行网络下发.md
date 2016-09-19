@@ -25,7 +25,7 @@
 ![](/assets/26-4.png)
 
 
-5.   使用“Clean And Write”写入后的硬盘状态
+5.使用“Clean And Write”写入后的硬盘状态
 ![](/assets/26-5.png)
 
 >写入成功后的磁盘，会形成二个分区，一个384MB的BOOT分区和一个DATA分区。DATA分区下会生成二个目录 “BOOT”和“VHD目录”。这二个目录的主要是通过USB设备直接写入桌面系统和菜单。
