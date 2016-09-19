@@ -16,8 +16,7 @@
 
 >Write Boot          :直接向磁盘写入引导，不会格式化磁盘
 
->注：U盘推荐使用Write boot写入引导，在写入之前，请手动格式化U盘，U盘请格式化为FAT32格式。USB移动硬盘推荐使用Clan And Write。不发现进行格式化等操作
-
+>注：U盘推荐使用Write boot写入引导，在写入之前，请手动格式化U盘，U盘请格式化为FAT32格式。USB移动硬盘推荐使用Clan And Write。
 
 3.向USB设备写入引导
 ![](/assets/26-3.png)
