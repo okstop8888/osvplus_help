@@ -7,7 +7,7 @@
     * [软件环境要求](ruan_jian_pei_zhi_yao_qiu.md)
     * [服务器硬件配置要求](pei_zhi_yao_qiu.md)
     * [终端硬件配置要求](zhong_duan_ying_jian_pei_zhi_yao_qiu.md)
-    * [网络端口](wang_luo_duan_kou.md)
+    * [网络端口使用](wang_luo_duan_kou.md)
 * [服务端安装](fu_wu_duan_an_zhuang.md)
 * [生成计算机](shengchengjisuanji.md)
 * [镜像制作](jing_xiang_zhi_zuo.md)
