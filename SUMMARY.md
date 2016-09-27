@@ -17,7 +17,7 @@
     * [Linux 镜像制作](linux_jing_xiang_zhi_zuo.md)
 * [下发桌面](下发桌面.md)
     * [使用PXE方式进行下发](pxe-setup.md)
-    * [使用USB,CD启动后进行网络下发](使用usb，cdrom进行网络下发.md)
+    * [使用USB,CD启动后进行网络下发](usb-boot-network.md)
     * [使用USB直接写入桌面环境](使用usb直接写入桌面环境.md)
 * [常用桌面管理](chang_yong_guan_li.md)
     * [如何更新桌面](如何更新桌面.md)
