@@ -19,7 +19,7 @@
     * [5.1 使用PXE方式进行下发](pxe-setup.md)
     * [5.2 使用USB,CD启动后进行网络下发](usb-boot-network.md)
     * [5.3 使用USB直接写入桌面环境](usb-boot-local.md)
-* [常用桌面管理](chang_yong_guan_li.md)
+* [6 常用桌面管理](chang_yong_guan_li.md)
     * [如何更新桌面](ruhegengxinzhuomian.md)
     * [如何还原桌面](ruhehuanyuanzhuomian.md)
     * [如何更改桌面访问模式](ruhegenggaizhuomiandefangwenmoshi.md)
