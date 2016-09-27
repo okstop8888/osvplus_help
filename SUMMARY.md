@@ -35,6 +35,6 @@
     * [如何在终端桌面上显示计算机名](ruhezaizhuomianshangxianshijisuanjiming.md)
 * [常见问题与性能调优](常见问题与性能调优.md)
     * [终端PXE时无法进入BOOTLoader](zhongduanshiyongPXEqidongshi.md)
-    * [改善桌面下发P2P的性能](改善桌面下发p2p的性能.md)
-    * [跨VLAN，互联网情况下的部署](跨vlan.md)
+    * [改善桌面下发P2P的性能](ruhegaishanP2Pzhongduanxingneng.md)
+    * [跨VLAN，互联网情况下的部署](kuaVLANhuanjingshi.md)
 
