@@ -10,7 +10,7 @@
     * [1.6 网络端口使用](wang_luo_duan_kou.md)
 * [2 服务端安装](fu_wu_duan_an_zhuang.md)
 * [3 生成计算机](shengchengjisuanji.md)
-* [镜像制作](jing_xiang_zhi_zuo.md)
+* [4. 镜像制作](jing_xiang_zhi_zuo.md)
     * [使用上传工具制作](shi_yong_shang_chuan_gong_ju_zhi_zuo.md)
     * [使用P2V工具制作（推荐）](shi_yong_v2p_gong_ju_zhi_zuo.md)
     * [使用virtualbox制作](shi_yong_virtualbox_zhi_zuo.md)
