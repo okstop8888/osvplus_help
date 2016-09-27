@@ -27,7 +27,7 @@
     * [如何在桌面执行远程命令](ruhezaizhuomianzhixingyuanchengmingling.md)
     * [如何远程关闭，重启，唤醒计算机](ruheyuanchengguanbizhongqijisuanji.md)
     * [如何修改终端IP，计算机名等信息](ruhexiugaizhongduanIP.md)
-    * [如何设置终端为“本地硬盘”启动](如何设置终端为本地硬盘启动.md)
+    * [如何设置终端为“本地硬盘”启动](ruhexiugaizhongduanweibendiyingpanqidong.md)
     * [如何回收桌面资源](如何回收桌面资源.md)
     * [如何设置本地F7的认证密码](如何设置本地f.md)
     * [如何使用终端通过DHCP的方式获取IP](如何启用终端的dhcp.md)
