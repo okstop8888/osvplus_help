@@ -23,7 +23,7 @@
     * [如何更新桌面](ruhegengxinzhuomian.md)
     * [如何还原桌面](ruhehuanyuanzhuomian.md)
     * [如何更改桌面访问模式](ruhegenggaizhuomiandefangwenmoshi.md)
-    * [如何添加数据存储磁盘](如何添加数据存储磁盘.md)
+    * [如何添加数据存储磁盘](ruhetianjiashujucipan.md)
     * [如何在桌面执行远程命令](如何在桌面远程执行命令.md)
     * [如何远程关闭，重启，唤醒计算机](如何远程关闭，重启，唤醒计算机.md)
     * [如何修改终端IP，计算机名等信息](如何修改终端ip，计算机名等信息.md)
