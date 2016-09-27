@@ -15,7 +15,7 @@
     * [使用P2V工具制作（推荐）](shi_yong_v2p_gong_ju_zhi_zuo.md)
     * [使用virtualbox制作](shi_yong_virtualbox_zhi_zuo.md)
     * [Linux 镜像制作](linux_jing_xiang_zhi_zuo.md)
-* [下发桌面](下发桌面.md)
+* [下发桌面](xiafazhuomian.md)
     * [使用PXE方式进行下发](pxe-setup.md)
     * [使用USB,CD启动后进行网络下发](usb-boot-network.md)
     * [使用USB直接写入桌面环境](使用usb直接写入桌面环境.md)
