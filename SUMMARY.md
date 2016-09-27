@@ -9,7 +9,7 @@
     * [终端硬件配置要求](zhong_duan_ying_jian_pei_zhi_yao_qiu.md)
     * [网络端口](wang_luo_duan_kou.md)
 * [服务端安装](fu_wu_duan_an_zhuang.md)
-* [生成计算机](生成计算机.md)
+* [生成计算机](shengchengjisuanji.md)
 * [镜像制作](jing_xiang_zhi_zuo.md)
     * [使用上传工具制作](shi_yong_shang_chuan_gong_ju_zhi_zuo.md)
     * [使用P2V工具制作（推荐）](shi_yong_v2p_gong_ju_zhi_zuo.md)
