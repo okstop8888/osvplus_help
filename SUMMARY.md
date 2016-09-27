@@ -20,7 +20,7 @@
     * [使用USB,CD启动后进行网络下发](usb-boot-network.md)
     * [使用USB直接写入桌面环境](usb-boot-local.md)
 * [常用桌面管理](chang_yong_guan_li.md)
-    * [如何更新桌面](如何更新桌面.md)
+    * [如何更新桌面](ruhegengxinzhuomian.md)
     * [如何还原桌面](如何还原桌面.md)
     * [如何更改桌面访问模式](如何更改桌面访问模式.md)
     * [如何添加数据存储磁盘](如何添加数据存储磁盘.md)
