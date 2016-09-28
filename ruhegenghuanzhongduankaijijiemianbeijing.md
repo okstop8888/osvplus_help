@@ -16,7 +16,7 @@
 ![](/assets/118-3.png)
 
 
-4。替换background.png文件
+4。 替换background.png文件
 
 ![](/assets/118-4.png)
 
