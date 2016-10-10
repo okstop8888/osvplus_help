@@ -1,7 +1,7 @@
 #一，准备USB设备 
 
 
-[工具](http://vpn.os-v.com:82/%E5%B7%A5%E5%85%B7/U%E7%9B%98%E5%90%AF%E5%8A%A8%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7.zip)
+[USB 工具下载](http://vpn.os-v.com:82/%E5%B7%A5%E5%85%B7/U%E7%9B%98%E5%90%AF%E5%8A%A8%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7.zip)
 
 
 1.打开USB启动制作工具
