@@ -38,6 +38,6 @@
     * [7.1 终端PXE时无法进入BOOTLoader](zhongduanshiyongPXEqidongshi.md)
     * [7.2 改善桌面下发P2P的性能](ruhegaishanP2Pzhongduanxingneng.md)
     * [7.3 跨VLAN，互联网情况下的部署](kuaVLANhuanjingshi.md)
-    * [7.4  制作PE BOOTLoader 二用启动U盘或移动硬盘](74--制作pe-bootloader-二用启动u盘或移动硬盘.md)
-    * [7.5 从617版本更新到新版本](75-从617版本更新到新版本.md)
+    * [7.4  制作PE BOOTLoader 二用启动U盘或移动硬盘](pe-bootloader.md)
+    * [7.5 从617版本更新到新版本](617.md)
 
