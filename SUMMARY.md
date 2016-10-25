@@ -9,6 +9,7 @@
    * [1.5 终端硬件配置要求](zhong_duan_ying_jian_pei_zhi_yao_qiu.md)
    * [1.6 网络端口使用](wang_luo_duan_kou.md)
 * [安装](an_zhuang.md)
+   * 服务器安装
 * [2 服务端安装](fu_wu_duan_an_zhuang.md)
 * [3 生成计算机](shengchengjisuanji.md)
 * [4. 镜像制作](jing_xiang_zhi_zuo.md)
