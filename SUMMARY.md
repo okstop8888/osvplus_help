@@ -8,6 +8,7 @@
    * [1.4 服务器硬件配置要求](pei_zhi_yao_qiu.md)
    * [1.5 终端硬件配置要求](zhong_duan_ying_jian_pei_zhi_yao_qiu.md)
    * [1.6 网络端口使用](wang_luo_duan_kou.md)
+* 安装
 * [2 服务端安装](fu_wu_duan_an_zhuang.md)
 * [3 生成计算机](shengchengjisuanji.md)
 * [4. 镜像制作](jing_xiang_zhi_zuo.md)
@@ -40,5 +41,4 @@
    * [7.3 跨VLAN，互联网情况下的部署](kuaVLANhuanjingshi.md)
    * [7.4  制作PE BOOTLoader 二用启动U盘或移动硬盘](pe-bootloader.md)
    * [7.5 从617版本更新到新版本](617.md)
-* 安装
 
