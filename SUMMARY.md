@@ -40,4 +40,5 @@
    * [7.3 跨VLAN，互联网情况下的部署](kuaVLANhuanjingshi.md)
    * [7.4  制作PE BOOTLoader 二用启动U盘或移动硬盘](pe-bootloader.md)
    * [7.5 从617版本更新到新版本](617.md)
+* 安装
 
