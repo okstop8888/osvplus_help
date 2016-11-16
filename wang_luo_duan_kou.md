@@ -12,5 +12,5 @@
 7002  |    TCP & UDP | OSV 数据服务器
 7006  |    TCP       | OSV 授权服务器（配置服务，用于服务器之间热备）
 7010  |    TCP       | OSV 数据服务 
-7016  |    TCP       | 远程维护 & BOOTLoader 启动
+7012  |    TCP       | 远程维护 & BOOTLoader 启动
 
