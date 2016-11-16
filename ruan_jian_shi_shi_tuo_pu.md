@@ -80,13 +80,13 @@
 
 
 
->应对方案1：使用DHCP转发工具进行部署  请参考第“[7.3章节](/kuaVLANhuanjingshi.html)”的相关资料 （推荐此方法）
+>应对方案1：使用DHCP转发工具进行部署  请参考第“[7.3章节-跨VLAN，互联网时，使用PXE进行部署](/kuaVLANhuanjingshi.html)”的相关资料 （推荐此方法）
 
 >应对方案2：调整交换机，开启DHCP Reay功能   （不推荐，需要调交换机相关参数）
 
->应对方案3：使用USB存储设备/CD/DVD启动Bootloader下载器后进行部署，请参考“[5.2 章节](/usb-boot-network.html)”相关资料
+>应对方案3：使用USB存储设备/CD/DVD启动Bootloader下载器后进行部署，请参考“[5.2 章节-使用USB，CD启动Bootloader后进行网络下发](/usb-boot-network.html)” 相关资料
 
->应对方案4：使用USB存储设备直接写入一个基础的桌面环境至本地后通过此桌面网络更新其他桌面，请参考“5.3”章节内容
+>应对方案4：使用USB存储设备直接写入一个基础的桌面环境至本地后通过此桌面网络更新其他桌面，请参考“[5.3 章节](/usb-boot-local.html)”内容
 
 
 
