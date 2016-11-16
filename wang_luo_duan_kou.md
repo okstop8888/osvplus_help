@@ -6,6 +6,7 @@
 67    |    UDP      | PXE-DHCP 服务器
 69    |    UDP      | PXE-TFTP 服务器  
 5500  |    TCP      | 远程桌面
+6969  |    TCP & UDP| BT服务器
 7000  |    TCP & UDP | OSV 授权服务器（配置服务）
 7001  |    TCP & UDP | OSV 数据服务器
 7002  |    TCP & UDP | OSV 数据服务器
