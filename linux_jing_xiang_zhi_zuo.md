@@ -20,7 +20,35 @@
 
 ![](/assets/l4.png)
 
-3，
+3，在ADMIM帐户下，新建一个启动菜单“Menu”
+
+![](/assets/l5.png)
+
+
+4，在Menu菜单下，新建一个简单包
+
+![](/assets/l6.png)
+
+5，将ubuntu镜像，拖至简单包下
+
+![](/assets/l8.png)
+
+6，开启“活动更新模式”
+
+![](/assets/l7.png)
+
+7，模板终端使用“网络引导”开机
+
+![](/assets/l2.png)
+
+8，输入管理员用户，密码进行系统上传
+![](/assets/l9.png)
+
+9，上传完成后，输入s，关闭终端
+
+10，更改admin的访问模式为还原模式
+
+![](/assets/l10-1.png)
 
 
 
