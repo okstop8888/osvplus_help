@@ -1,8 +1,10 @@
+
+
+
+
 # 一，准备USB设备
 
-
 [USB制作工具下载](http://vpn.os-v.com:82/%E5%B7%A5%E5%85%B7/U%E7%9B%98%E5%90%AF%E5%8A%A8%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7.zip)
-
 
 1.打开USB启动制作工具
 
@@ -18,13 +20,11 @@
 > 
 > Boot Mode :启动模式，默认选择Syslinux，如果引导失败，请选择 Grub4dos
 > 
-> Clan And Write :清空磁盘并写入，兼容性最好，选择此种模式会清空硬盘，此种模式引导成功率高
+> Clan And Write :清空磁盘并写入，兼容性最好，选择此种模式会清空硬盘，此种模式引导成功率高-此方法仅支持USB移动硬盘，U盘请使用 “Write BOOT”
 > 
 > Write Boot :直接向磁盘写入引导，不会格式化磁盘
 > 
-> 注：U盘推荐使用Write boot写入引导，在写入之前，请手动格式化U盘，U盘请格式化为FAT32格式。USB移动硬盘推荐使用Clan And Write。
-
-
+> 注：U盘请使用Write boot写入引导，在写入之前，请使用windows的磁盘管理器，格式化U盘，并设置磁盘为活动
 
 3.向USB设备写入引导
 
