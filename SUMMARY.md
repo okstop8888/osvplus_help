@@ -34,6 +34,7 @@
     * [6.12 如何在终端上不显示下载框](ruhezaizhongduanshangbuxianshixiazaikuang.md)
     * [6.13 如何在终端桌面上显示计算机名](ruhezaizhuomianshangxianshijisuanjiming.md)
     * [6.14 如何更换终端开机界面背景](ruhegenghuanzhongduankaijijiemianbeijing.md)
+    * [6.15 如何使用学习模式学习个性经数据](ruheshiyongxueximoshi.md)
 * [7 常见问题与性能调优](常见问题与性能调优.md)
     * [7.1 终端PXE时无法进入BOOTLoader](zhongduanshiyongPXEqidongshi.md)
     * [7.2 改善桌面下发P2P的性能](ruhegaishanP2Pzhongduanxingneng.md)
