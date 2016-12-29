@@ -51,10 +51,14 @@
  
 ```
 @echo off
+rem 关闭回显
 Driver_Setup.exe
+rem 运行驱动安装工具
 shutdown -r -t 40
+rem 驱动安装完成后 超时40S 自动重启计算机
 ```
 
+![](/assets/x8.png)
 
 
   
