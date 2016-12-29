@@ -64,7 +64,24 @@ rem 驱动安装完成后 超时40S 自动重启计算机
 ![](/assets/x8.png)
 
 
-  
+ 
+同时调用多个BAT
+
+run.bat:
+
+
+
+```
+@echo off
+call 1.abt
+call 2.bat
+exit
+```
+
+
+
+   
+     
   
 
 
