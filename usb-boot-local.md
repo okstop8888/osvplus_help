@@ -6,13 +6,15 @@
 
 
 
-![](/assets/usb1.png)
+![](/assets/usb-1.png)
 
 
 
 2.选择要写入的USB设备
 
-![](/assets/usb2.png)
+![](/assets/usb-2.png)
+
+
 
 > Select Store Device : 选择要制作的USB设备
 >
@@ -21,6 +23,9 @@
 > Clan And Write :清空磁盘并写入，清空磁盘时，可能会删除您的数据，请注意备份数据
 >
 > Update BOOTLoader :更新U盘，移动硬盘中的BOOTLoader
+>
+> Refresh :刷新
+
 
 
 3.写入成功后磁盘状态

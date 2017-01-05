@@ -6,13 +6,15 @@
 
 
 
-![](/assets/usb1.png)
+![](/assets/usb-1.png)
 
 
 
 2.选择要写入的USB设备
 
-![](/assets/usb2.png)
+![](/assets/usb-2.png)
+
+
 
 > Select Store Device : 选择要制作的USB设备
 >
@@ -21,19 +23,18 @@
 > Clan And Write :清空磁盘并写入，清空磁盘时，可能会删除您的数据，请注意备份数据
 >
 > Update BOOTLoader :更新U盘，移动硬盘中的BOOTLoader
+>
+> Refresh :刷新
 
-
-3.写入成功后磁盘状态
+3.写入成功后磁盘状态  
 ![](/assets/usb3.png)
 
-
-4.写入成功后的文件系统
+4.写入成功后的文件系统  
 ![](/assets/usb4.png)
-
 
 > 注：1 . 如果打开工具时，没有找到USB设备，请手动给USB设备进行分区并格式化后重启软件
 >
->2 . 制作好的USB启动设备，支持 BIOS/UEFI双启动
+> 2 . 制作好的USB启动设备，支持 BIOS/UEFI双启动
 
 # 制作完毕，使用USB设备进行启动。启动成功后，操作服务器，进行桌面下发操作
 
