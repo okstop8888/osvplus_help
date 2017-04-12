@@ -20,7 +20,7 @@
     * [5.2 使用USB,CD启动后进行网络下发](usb-boot-network.md)
     * [5.3 使用USB直接写入桌面环境](usb-boot-local.md)
 * [6 终端的常用维护](chang_yong_guan_li.md)
-    * [6.1 如何更新桌面](ruhegengxinzhuomian.md)
+    * [6.1 如何更新桌面 For windows](ruhegengxinzhuomian.md)
     * [6.2 如何还原桌面](ruhehuanyuanzhuomian.md)
     * [6.3 如何更改桌面访问模式](ruhegenggaizhuomiandefangwenmoshi.md)
     * [6.4 如何添加数据存储磁盘](ruhetianjiashujucipan.md)
